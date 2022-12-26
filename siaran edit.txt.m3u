@@ -1,0 +1,62 @@
+#EXTINF:-1, TVRI NASIONAL - 𝐀𝐆𝐒𝟕𝟕
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:-1, TVRI SPORT HD - 𝐀𝐆𝐒𝟕𝟕
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+
+#EXTINF:-1, TVRI JATENG HD - 𝐀𝐆𝐒𝟕𝟕
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+
+#EXTINF:-1, MAVTV - 𝐀𝐆𝐒𝟕𝟕
+https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1, TVKU - 𝐀𝐆𝐒𝟕𝟕
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1, MagentaTV - 𝐀𝐆𝐒𝟕𝟕
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/HasBahCa.m3u8
+
+#EXTINF:-1, TATV - 𝐀𝐆𝐒𝟕𝟕
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+
+#EXTINF:-1, MTV HITS - 𝐀𝐆𝐒𝟕𝟕
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1, SCTV - 𝐀𝐆𝐒𝟕𝟕
+http://210.210.155.35/qwr9ew/s/s03/index.m3u8
+
+#EXTINF:-1, MojiTV - 𝐀𝐆𝐒𝟕𝟕
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1, Antv HD - 𝐀𝐆𝐒𝟕𝟕
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1, KompasTV - 𝐀𝐆𝐒𝟕𝟕
+http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1, TransTV HD - 𝐀𝐆𝐒𝟕𝟕
+https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
+
+#EXTINF:-1, CNBC INDONESIA - 𝐀𝐆𝐒𝟕𝟕
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1, CNN INDONESIA - 𝐀𝐆𝐒𝟕𝟕
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+
+#EXTINF:-1, CNN INDONESIA (Server 2) - 𝐀𝐆𝐒𝟕𝟕
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1, Trans 7 HD - 𝐀𝐆𝐒𝟕𝟕
+https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
+
+#EXTINF:-1, MNCTV - 𝐀𝐆𝐒𝟕𝟕
+https://d1y5zdfadx9n48.cloudfront.net/MNCTV2022.m3u8
+
+#EXTINF:-1, MNCTV HD S2 - 𝐀𝐆𝐒𝟕𝟕
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+
+
+
+
+
